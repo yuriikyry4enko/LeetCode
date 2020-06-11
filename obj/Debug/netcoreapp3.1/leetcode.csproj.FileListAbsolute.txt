@@ -1,0 +1,12 @@
+/Users/yuriikyrychenko/Documents/leetcode/bin/Debug/netcoreapp3.1/leetcode.deps.json
+/Users/yuriikyrychenko/Documents/leetcode/bin/Debug/netcoreapp3.1/leetcode.runtimeconfig.json
+/Users/yuriikyrychenko/Documents/leetcode/bin/Debug/netcoreapp3.1/leetcode.runtimeconfig.dev.json
+/Users/yuriikyrychenko/Documents/leetcode/bin/Debug/netcoreapp3.1/leetcode.dll
+/Users/yuriikyrychenko/Documents/leetcode/bin/Debug/netcoreapp3.1/leetcode.pdb
+/Users/yuriikyrychenko/Documents/leetcode/obj/Debug/netcoreapp3.1/leetcode.csprojAssemblyReference.cache
+/Users/yuriikyrychenko/Documents/leetcode/obj/Debug/netcoreapp3.1/leetcode.csproj.CoreCompileInputs.cache
+/Users/yuriikyrychenko/Documents/leetcode/obj/Debug/netcoreapp3.1/leetcode.AssemblyInfoInputs.cache
+/Users/yuriikyrychenko/Documents/leetcode/obj/Debug/netcoreapp3.1/leetcode.AssemblyInfo.cs
+/Users/yuriikyrychenko/Documents/leetcode/obj/Debug/netcoreapp3.1/leetcode.dll
+/Users/yuriikyrychenko/Documents/leetcode/obj/Debug/netcoreapp3.1/leetcode.pdb
+/Users/yuriikyrychenko/Documents/leetcode/obj/Debug/netcoreapp3.1/leetcode.genruntimeconfig.cache
